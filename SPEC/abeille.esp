@@ -1,0 +1,10 @@
+espece:Abeille
+vertebree:0
+classe:0
+origines:0,1,3,4,5
+habiats:2
+dureeVie:4
+regime:1
+pattes:6
+dureeGestation:*
+booleen:*

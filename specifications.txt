@@ -1,0 +1,48 @@
+espece:<nom de l'espèce, comme lion>
+
+vertebree:<0/1>
+0 = non
+1 = oui
+
+classe:<numero>
+0 = insecte
+1 = arachnide
+2 = mollusque
+3 = amphibien
+4 = poisson
+5 = mammifere
+6 = oiseau
+7 = reptile
+
+origines:<numéro>,<numéro>,etc.
+0 = Afrique
+1 = Amérique
+2 = Antarctique
+3 = Asie
+4 = Europe
+5 = Océanie
+
+habiats:<numéro>, etc.
+0 = Eau
+1 = Terre
+2 = Air
+
+dureeVie: <double> (années)
+
+regime:<numéro>
+0 = carnivore
+1 = herbivore
+2 = omnivore
+
+pattes:<nombre des pattes> 
+
+dureeGestation: <entier> (mois)
+
+booleen:<0/1>
+amphibien: venimeux
+oiseau: vole
+poisson: eauDouce
+reptile: dangereaux
+
+* : Si l'attribut n'existe pa pour l'espèce
+

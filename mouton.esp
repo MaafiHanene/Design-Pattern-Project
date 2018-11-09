@@ -1,0 +1,10 @@
+espece:Mouton
+vertebree:1
+classe:5
+origines:0,1,3,4,5
+habiats:1
+dureeVie:12
+regime:1
+pattes:*
+dureeGestation:5
+booleen:*
